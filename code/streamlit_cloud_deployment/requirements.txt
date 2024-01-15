@@ -1,0 +1,6 @@
+dill==0.3.6
+numpy==1.22.4
+pandas==1.5.3
+Pillow==9.4.0
+streamlit==1.18.1
+scikit-learn==1.0.2
